@@ -7,22 +7,17 @@
   <img src="https://img.shields.io/badge/Based%20in-Jaipur%2C%20India-orange" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN-Stack-informational?style=flat&color=2ea44f" />
-  <img src="https://img.shields.io/badge/Experience-2%2B%20years-blue" />
-  <img src="https://img.shields.io/badge/Based%20in-Jaipur%2C%20India-orange" />
-</p>
 
----
+--
+About Me
 
-### 🧭 About Me
+Full-Stack Developer and Technical Consultant at Dataabsolute Technologies, based in Jaipur, India. I design and build production-grade web platforms end to end — from database schema and API architecture to responsive, user-facing interfaces.
 
-- 💼 Full-Stack Developer & Technical Consultant at **Dataabsolute Technologies**
-- 🏗️ I build production full-stack platforms — vendor marketplaces, business websites, and backend APIs — end to end
-- 🎓 B.Tech in Computer Engineering, Rajasthan Technical University, Kota
-- 📜 Salesforce AI Associate Certified · Tulip Interfaces Certified
-- 🌱 Currently exploring algorithmic trading infrastructure and sandboxed execution (isolated-vm)
-- 📫 Reach me: **rajulal0747@gmail.com**
+My recent work includes a full-stack vendor/partner marketplace platform (multi-store offer management, geo-based discovery, role-based auth) and a corporate website built on Next.js with a custom design system. I'm currently extending into algorithmic trading infrastructure, including sandboxed strategy execution.
+
+Education: B.Tech in Computer Engineering, Rajasthan Technical University, Kota
+Certifications: Salesforce AI Associate · Tulip Interfaces
+Contact: rajulal0747@gmail.com
 
 ---
 
