@@ -7,6 +7,12 @@
   <img src="https://img.shields.io/badge/Based%20in-Jaipur%2C%20India-orange" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-Stack-informational?style=flat&color=2ea44f" />
+  <img src="https://img.shields.io/badge/Experience-2%2B%20years-blue" />
+  <img src="https://img.shields.io/badge/Based%20in-Jaipur%2C%20India-orange" />
+</p>
+
 ---
 
 ### 🧭 About Me
