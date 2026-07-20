@@ -8,7 +8,7 @@
 </p>
 
 
---
+
 About Me
 
 Full-Stack Developer and Technical Consultant at Dataabsolute Technologies, based in Jaipur, India. I design and build production-grade web platforms end to end — from database schema and API architecture to responsive, user-facing interfaces.
